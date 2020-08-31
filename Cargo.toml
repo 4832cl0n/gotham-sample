@@ -8,7 +8,7 @@ edition = "2018"
 
 [dependencies]
 futures = "~0.1"
-hyper = "~0.11"
+hyper = "~0.12"
 gotham = "~0.2"
 gotham_derive = "~0.2"
 mime = "~0.3"
